@@ -7,3 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Dewa Yudha, [ladangtekno.com](https://www.ladangtekno.com/p/contact.html).
+* Yudha Dewa, [ladangtekno.com](https://www.ladangtekno.com).
